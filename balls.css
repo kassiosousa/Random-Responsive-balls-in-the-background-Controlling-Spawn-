@@ -1,0 +1,13 @@
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+}
+#area_ball{
+   position:
+   absolute;
+   width: 50%;
+   height: 100vh;
+   background:#51c0b4;
+   overflow: hidden;
+}
